@@ -39,7 +39,7 @@ cd backend && npm install && npm run dev
 cd frontend && npm install && npm run dev
 ```
 
-📖 Detailed docs: [Smart Contracts](./smartcontract/README.md) | [Backend](./backend/README.md) | [Frontend](./frontend/README.md)
+📖 Detailed docs: [Smart Contracts](https://github.com/TethraFi/smartcontract) | [Backend](https://github.com/TethraFi/backend) | [Frontend](https://github.com/TethraFi/frontend)
 
 ## 🌐 Networks
 
